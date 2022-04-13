@@ -1,0 +1,209 @@
+/* CSS Document */
+body { margin: 0; padding: 0; border: 0; font-size: 100%; }
+.container-fluid{background:#9ACD32;font-family: 'Roboto', sans-serif;}
+.container-vision{background:#FAFAD2; font-family: 'Roboto', sans-serif;}
+
+.navbar{
+	font-family: 'Nunito', sans-serif;
+}
+.btn-primary {
+color: #fff;
+background-color: #9ACD32  !important;
+	font-family: 'Nunito', sans-serif; 
+border-color: #9ACD32 !important;
+}
+.btn-primary:hover
+{
+background-color:#FAFAD2 !important;
+transition: 0.7s !important;
+color: #000 !important;
+}
+
+.px-4
+{
+margin-top: 1.5rem;
+}
+
+.card-img-top{width: 15%;}
+
+.container{margin: 10px;}
+
+.col > .row-cols-md-9
+{
+background-color: #FAFAD2 !important;
+
+}
+
+.navbar-brand >img
+{
+
+	width: 5rem;
+	height:auto;
+
+}
+
+.col-4 > img
+{
+border-radius: 4px;
+border: 2px solid #9ACD32;
+
+
+}
+
+.subHead
+{
+	margin-top: 1.5rem;
+}
+
+#boldText
+{
+
+	font-weight: 700;
+
+}
+
+.gmap-teagarden
+{
+
+	width: 100%;
+	height:20rem;
+
+}
+
+#embed-map
+{
+	margin-top: 2.75rem;
+	padding: 0 !important;
+	margin-left: 0 !important;
+
+}
+
+#storeFront
+{
+	padding: 0 !important;
+	margin-top: 2.75rem;
+	margin-left: 0 !important;	
+}
+
+
+#storeInfo-2
+{
+	margin-top: 2.75rem;
+}
+
+#instaLink
+{
+	width: 2.5rem;
+}
+
+#buttonNoBG
+{
+background: none !important;
+border: none;
+}
+
+#instaLink
+{
+	filter: grayscale(100%) !important;
+	-webkit-filter: grayscale(100%) !important;
+	-moz-filter: grayscale(100%) !important;
+
+}
+#instaLink:hover
+{
+	filter: grayscale(0%) !important;
+	-webkit-filter: grayscale(0%) !important;
+	-moz-filter: grayscale(0%) !important;
+}
+
+#tG-container
+{
+	padding: 1.75rem 0;
+	margin:1.75rem 0;
+	background-color: #FAFAD2;
+	border-radius: 0.25rem;
+	padding-left:0.45rem;
+	padding-right:0.45rem;
+}
+
+#greenContain
+{
+	background-color: #FAFAD2;
+	border-radius: 0.25rem;
+	padding: 1.85rem !important;
+	
+}
+
+.blockItalic
+{
+	margin-top: 1.45rem;
+	display: block;	
+font-style: italic;
+
+}
+
+.boldText
+{
+	font-weight: 700;
+}
+.contSpac
+{
+	margin: 1.75rem 0 !important;
+}
+
+.linkText
+{
+	text-decoration: none;
+	color:#9ACD32;
+}
+
+.linkText:hover
+{
+	color:#9dc451;
+	transition: 0.2ms ease;
+	text-decoration: underline;
+}
+
+.card-body
+{
+	background-color: #FAFAD2;
+}
+
+.greenContain
+{
+	background-color: #FAFAD2;
+	border-radius: 0.25rem;
+	padding: 1.85rem !important;
+	
+}
+
+.imageOpt
+{
+	width: 20rem;
+	height: auto;
+	margin-top:0.55rem;
+	border:none !important;
+	object-fit: contain;
+}
+
+#greenContainer1
+{
+	background-color: #FAFAD2;
+	border-radius: 0.25rem;
+	padding: 1.85rem !important;
+	
+}
+
+#greenContainer2
+{
+	background-color: #FAFAD2;
+	border-radius: 0.25rem;
+
+	
+}
+
+#extraSpacing
+{
+margin-bottom: 1.75rem;
+
+}
